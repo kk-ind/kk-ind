@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111421" started-at="2021-03-03T09:10:31Z" finished-at="2021-03-03T09:12:22Z">
+    <groups>
+    </groups>
+    <test name="Android-Web" duration-ms="111421" started-at="2021-03-03T09:10:31Z" finished-at="2021-03-03T09:12:22Z">
+      <class name="TestCases.TestCases">
+        <test-method status="PASS" signature="precondition(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TestCases@299f85d8]" name="precondition" is-config="true" duration-ms="30436" started-at="2021-03-03T14:40:31Z" finished-at="2021-03-03T14:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0.0.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4723]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Atalo]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0.1.212]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestCases.TestCases@299f85d8]" name="before" is-config="true" duration-ms="0" started-at="2021-03-03T14:41:01Z" finished-at="2021-03-03T14:41:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="TC_tenantRegistration(java.lang.String, java.lang.reflect.Method)[pri:0, instance:TestCases.TestCases@299f85d8]" name="TC_tenantRegistration" duration-ms="77500" started-at="2021-03-03T14:41:01Z" finished-at="2021-03-03T14:42:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void TestCases.TestCases.TC_tenantRegistration(java.lang.String,java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_tenantRegistration -->
+        <test-method status="PASS" signature="closeSessions()[pri:0, instance:TestCases.TestCases@299f85d8]" name="closeSessions" is-config="true" duration-ms="3286" started-at="2021-03-03T14:42:19Z" finished-at="2021-03-03T14:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSessions -->
+      </class> <!-- TestCases.TestCases -->
+    </test> <!-- Android-Web -->
+  </suite> <!-- Suite -->
+</testng-results>

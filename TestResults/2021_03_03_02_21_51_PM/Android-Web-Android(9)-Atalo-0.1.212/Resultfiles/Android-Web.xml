@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Android-Web">
+  <TestCase description="Verify the tenant is able to register to the application" id="TC_tenantRegistration">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Register" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Application navigated to tenant registration page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'automationtesting2503@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Testing' in: First Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Bot' in: Last Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User already registered" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Click on: Back" ScreenShotName="" Status="Pass"/>
+  </TestCase>
+<TestCase description="Verify the tenant is able to login to the application only with valid credentials" id="TC_tenantLogin">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'testingpurpose805@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'tester@123' in: Password" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tenant login successful" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Sign Out" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Successfully signed out of the tenant android application" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="################################DataSet: 2################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'testingpurpose12122@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'tester@123' in: Password" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Tenant login failed using invalid email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="################################DataSet: 3################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Type 'testingpurpose805@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type '@talo123' in: Password" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Login" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Expected error on entering invalid password is not displayed" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  </TestCase>
+</Scenario>

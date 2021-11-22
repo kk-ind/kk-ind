@@ -1,0 +1,29 @@
+ INFO | 2021-03-03 11:42:10,915 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 11:42:10,919 | Common.java | 76 | Test Output Directory creation successful :D:\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_11_42_10_AM
+ INFO | 2021-03-03 11:42:10,919 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 11:42:11,508 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 11:42:11,921 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 11:42:11,922 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 11:42:12,240 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 11:42:12,240 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 11:42:12,241 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 11:42:12,575 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 11:42:12,583 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 11:42:13,278 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 11:42:23,290 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 11:42:23,291 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 11:42:23,292 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 11:42:23,294 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 11:42:23,296 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 11:42:23,298 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 11:42:23,299 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 11:42:23,299 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 11:42:23,300 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 11:42:23,301 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 11:42:23,302 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 11:42:38,180 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 11:42:38,180 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 11:42:38,181 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 11:42:38,181 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 11:42:38,181 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 11:42:38,184 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 

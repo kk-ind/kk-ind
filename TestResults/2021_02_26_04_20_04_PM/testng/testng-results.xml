@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="1" total="3" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="262343" started-at="2021-02-26T10:50:06Z" finished-at="2021-02-26T10:54:28Z">
+    <groups>
+    </groups>
+    <test name="Android-Web" duration-ms="262343" started-at="2021-02-26T10:50:06Z" finished-at="2021-02-26T10:54:28Z">
+      <class name="TestCases.TestCases">
+        <test-method status="PASS" signature="precondition(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="precondition" is-config="true" duration-ms="27261" started-at="2021-02-26T16:20:06Z" finished-at="2021-02-26T16:20:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0.0.0.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4723]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Atalo]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0.1.212]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="FAIL" signature="TC_tenantRegistration(java.lang.String, java.lang.reflect.Method)[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="TC_tenantRegistration" duration-ms="118296" started-at="2021-02-26T16:20:33Z" finished-at="2021-02-26T16:22:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void TestCases.TestCases.TC_tenantRegistration(java.lang.String,java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at utilities.Common.testFailed(Common.java:146)
+	at TestCases.TestCases.TestEnd(TestCases.java:114)
+	at TestCases.TestCases.TC_tenantRegistration(TestCases.java:74)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_tenantRegistration -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="before" is-config="true" duration-ms="0" started-at="2021-02-26T16:20:33Z" finished-at="2021-02-26T16:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="before" is-config="true" duration-ms="0" started-at="2021-02-26T16:22:32Z" finished-at="2021-02-26T16:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="FAIL" signature="TC_tenantLogin(java.lang.String, java.lang.reflect.Method)[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="TC_tenantLogin" duration-ms="112677" started-at="2021-02-26T16:22:32Z" finished-at="2021-02-26T16:24:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Android-Web]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void TestCases.TestCases.TC_tenantLogin(java.lang.String,java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.fail(Assert.java:101)
+	at utilities.Common.testFailed(Common.java:146)
+	at TestCases.TestCases.TestEnd(TestCases.java:114)
+	at TestCases.TestCases.TC_tenantLogin(TestCases.java:91)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_tenantLogin -->
+        <test-method status="PASS" signature="closeSessions()[pri:0, instance:TestCases.TestCases@36e0ecc2]" name="closeSessions" is-config="true" duration-ms="4015" started-at="2021-02-26T16:24:24Z" finished-at="2021-02-26T16:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSessions -->
+      </class> <!-- TestCases.TestCases -->
+    </test> <!-- Android-Web -->
+  </suite> <!-- Suite -->
+</testng-results>

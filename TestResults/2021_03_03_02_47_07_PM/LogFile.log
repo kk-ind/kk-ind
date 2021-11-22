@@ -1,0 +1,507 @@
+ INFO | 2021-03-03 14:47:07,479 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 14:47:07,483 | Common.java | 76 | Test Output Directory creation successful :D:\Quarks_NEW\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_02_47_07_PM
+ INFO | 2021-03-03 14:47:07,483 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 14:47:08,105 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:47:08,655 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 14:47:08,659 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 14:47:08,906 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:47:08,909 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:47:08,910 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:47:09,252 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:47:09,272 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:47:10,136 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 14:47:20,150 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 14:47:20,151 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:47:20,152 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 14:47:20,153 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:47:20,157 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 14:47:20,169 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:47:20,169 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 14:47:20,170 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 14:47:20,171 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 14:47:20,171 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 14:47:20,171 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 14:47:36,033 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 14:47:36,033 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 14:47:36,034 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:47:36,034 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 14:47:36,035 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 14:47:36,039 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2021-03-03 14:47:42,008 | Common.java | 76 | Browser: Open Successful : admin
+ INFO | 2021-03-03 14:47:42,011 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 14:47:42,076 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 14:47:42,077 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 14:47:42,080 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 14:47:42,081 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 14:47:42,242 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 14:47:42,242 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:47:42,245 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 14:47:42,247 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:47:42,248 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 14:47:42,248 | Common.java | 76 | ############# Start of Test Case[TC_tenantRegistration] : Verify the tenant is able to register to the application #############
+ INFO | 2021-03-03 14:47:42,382 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:47:42,386 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-03-03 14:47:42,405 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:47:42,406 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:47:42,885 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-03-03 14:47:42,900 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:47:42,904 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:47:42,934 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:47:44,525 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:47:44,892 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:47:45,071 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:47:45,248 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:47:45,399 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 14:47:45,408 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:47:45,409 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:47:45,414 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:47:45,473 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:45,473 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:45,473 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:45,474 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:45,795 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:46,799 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:46,799 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:46,800 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:46,800 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:47,327 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:48,341 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:48,341 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:48,342 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:48,342 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:48,553 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:49,559 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:49,559 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:49,569 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:49,569 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:49,738 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:50,756 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:50,757 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:50,757 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:50,759 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:50,961 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:51,981 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:51,982 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:51,983 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:51,983 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:52,226 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 14:47:53,234 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:53,234 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:47:53,235 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:53,235 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:47:55,656 | Common.java | 76 | Click on: Register
+ INFO | 2021-03-03 14:47:55,662 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:47:55,663 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:47:55,686 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:47:57,038 | Common.java | 76 | Application navigated to tenant registration page
+ INFO | 2021-03-03 14:47:57,043 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:47:57,044 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:47:57,066 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:47:57,153 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-03-03 14:47:57,153 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 14:47:57,153 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:47:57,153 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-03-03 14:48:16,959 | Common.java | 76 | Type 'automationtesting2503@gmail.com' in: Email
+ INFO | 2021-03-03 14:48:16,964 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:48:16,964 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:48:16,985 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:48:17,062 | Common.java | 76 | Parsing Locator: First Name#xpath=//android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-03-03 14:48:17,062 | Common.java | 76 | Android-Web - Locator Description : First Name
+ INFO | 2021-03-03 14:48:17,062 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:48:17,062 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-03-03 14:48:33,701 | Common.java | 76 | Type 'Testing' in: First Name
+ INFO | 2021-03-03 14:48:33,709 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:48:33,710 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:48:33,716 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:48:33,819 | Common.java | 76 | Parsing Locator: Last Name#xpath=//android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-03-03 14:48:33,819 | Common.java | 76 | Android-Web - Locator Description : Last Name
+ INFO | 2021-03-03 14:48:33,819 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:48:33,819 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-03-03 14:48:50,197 | Common.java | 76 | Type 'Bot' in: Last Name
+ INFO | 2021-03-03 14:48:50,210 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:48:50,212 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:48:50,235 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:48:51,609 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 14:48:51,647 | Common.java | 76 | Parsing Locator: Submit#xpath=//android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-03-03 14:48:51,648 | Common.java | 76 | Android-Web - Locator Description : Submit
+ INFO | 2021-03-03 14:48:51,648 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:48:51,648 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-03-03 14:48:53,165 | Common.java | 76 | Click on: Submit
+ INFO | 2021-03-03 14:48:53,169 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:48:53,169 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:48:53,173 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:49:26,919 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.50 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:49:31,265 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:49:33,676 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:49:33,683 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:49:33,711 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:49:33,716 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:49:33,757 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:49:33,757 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:33,758 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:33,758 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:33,758 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:33,760 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:49:38,301 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.36 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:49:42,530 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.21 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:49:45,024 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:49:45,027 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:49:45,028 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:49:45,032 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:49:45,079 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:49:45,079 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:45,080 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:45,081 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:45,082 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:49:45,083 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:50:03,239 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.31 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:50:08,212 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.59 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:50:16,201 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:50:16,414 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:50:16,426 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:50:16,588 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:50:19,007 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:50:19,021 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:19,031 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:19,044 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:19,054 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:19,066 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:50:23,759 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.36 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:50:28,200 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.43 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:50:31,025 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:50:31,029 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:50:31,029 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:50:31,051 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:50:31,112 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:50:31,113 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:31,114 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:31,114 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:31,115 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:31,121 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:50:35,500 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.34 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:50:39,787 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.27 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:50:42,091 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:50:42,095 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:50:42,095 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:50:42,100 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:50:42,154 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:50:42,155 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:42,155 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:42,156 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:42,160 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:42,160 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:50:46,716 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.37 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:50:50,917 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.18 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:50:53,105 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:50:53,109 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:50:53,110 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:50:53,115 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:50:53,186 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:50:53,186 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:53,187 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:53,187 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:53,188 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:50:53,188 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:50:57,437 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.22 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:51:01,713 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.25 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:51:05,379 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:51:05,382 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:51:05,382 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:51:05,386 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:51:05,420 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:51:05,420 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:05,420 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:05,421 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:05,421 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:05,421 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:51:09,706 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.26 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:51:13,948 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:51:16,307 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:51:16,309 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:51:16,309 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:51:16,313 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:51:16,343 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:51:16,344 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:16,344 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:16,344 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:16,344 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:51:16,345 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:52:22,202 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:52:22,614 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:52:22,942 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:52:23,196 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 14:52:23,382 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 14:52:23,395 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:52:23,396 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:52:23,404 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:52:23,464 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:52:23,464 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-03-03 14:52:23,465 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:52:23,465 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-03-03 14:52:24,770 | Common.java | 76 | Click on: Register
+ INFO | 2021-03-03 14:52:24,773 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:52:24,773 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:52:24,779 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:52:25,544 | Common.java | 76 | Application navigated to tenant registration page
+ INFO | 2021-03-03 14:52:25,547 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:52:25,547 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:52:25,553 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:52:25,587 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-03-03 14:52:25,587 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 14:52:25,587 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:52:25,588 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-03-03 14:52:43,645 | Common.java | 76 | Type 'automationtesting2503@gmail.com' in: Email
+ INFO | 2021-03-03 14:52:43,648 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:52:43,648 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:52:43,653 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:52:43,707 | Common.java | 76 | Parsing Locator: First Name#xpath=//android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-03-03 14:52:43,708 | Common.java | 76 | Android-Web - Locator Description : First Name
+ INFO | 2021-03-03 14:52:43,708 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:52:43,708 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-03-03 14:52:57,756 | Common.java | 76 | Type 'Testing' in: First Name
+ INFO | 2021-03-03 14:52:57,761 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:52:57,761 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:52:57,767 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:52:57,823 | Common.java | 76 | Parsing Locator: Last Name#xpath=//android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-03-03 14:52:57,823 | Common.java | 76 | Android-Web - Locator Description : Last Name
+ INFO | 2021-03-03 14:52:57,823 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:52:57,823 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-03-03 14:53:14,988 | Common.java | 76 | Type 'Bot' in: Last Name
+ INFO | 2021-03-03 14:53:14,993 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:53:14,993 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:53:14,997 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:53:16,339 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 14:53:16,374 | Common.java | 76 | Parsing Locator: Submit#xpath=//android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-03-03 14:53:16,374 | Common.java | 76 | Android-Web - Locator Description : Submit
+ INFO | 2021-03-03 14:53:16,374 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:53:16,374 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-03-03 14:53:17,905 | Common.java | 76 | Click on: Submit
+ INFO | 2021-03-03 14:53:17,909 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:53:17,909 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:53:17,914 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:53:22,502 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.53 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ERROR | 2021-03-03 14:53:24,929 | Common.java | 84 | User already registered
+ INFO | 2021-03-03 14:53:24,931 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:53:24,932 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:53:24,935 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:53:24,954 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:53:24,955 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:53:24,955 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:53:24,955 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:53:24,956 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:53:24,956 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:53:24,983 | Common.java | 76 | Parsing Locator: Back#xpath=(//android.widget.Button)[1]
+ INFO | 2021-03-03 14:53:24,984 | Common.java | 76 | Android-Web - Locator Description : Back
+ INFO | 2021-03-03 14:53:24,984 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 14:53:24,984 | Common.java | 76 | Android-Web - Locator: (//android.widget.Button)[1]
+ INFO | 2021-03-03 14:53:26,210 | Common.java | 76 | Click on: Back
+ INFO | 2021-03-03 14:53:26,213 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:53:26,213 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:53:26,217 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:54:17,583 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:54:21,900 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.30 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:54:24,373 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:54:24,377 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:54:24,377 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:54:24,382 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:54:24,410 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:54:24,410 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:24,410 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:24,411 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:24,411 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:24,411 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:54:28,770 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.33 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View/android.view.View[@content-desc='Please check your email to complete registeration']}
+ INFO | 2021-03-03 14:54:33,180 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.40 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 86718aaa-1717-4ae1-a69c-5947520cf9df
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='User with this email already exists']}
+ERROR | 2021-03-03 14:54:35,300 | Common.java | 84 | Failed to register tenant
+ INFO | 2021-03-03 14:54:35,302 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 14:54:35,303 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 14:54:35,307 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 14:54:35,331 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 14:54:35,331 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:35,332 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:35,332 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:35,332 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 14:54:35,333 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 14:55:17,305 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2021-03-03 14:55:18,327 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-03-03 14:55:18,328 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-03-03 14:55:18,332 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:55:18,342 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:55:18,351 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 14:55:18,352 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:55:18,352 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:55:22,560 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2021-03-03 14:55:22,563 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 14:55:22,564 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:55:22,564 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:55:22,565 | Common.java | 76 | ###################################
+ INFO | 2021-03-03 14:55:22,566 | Common.java | 76 | Script Execution Complete
+ INFO | 2021-03-03 14:55:22,566 | Common.java | 76 | ###################################

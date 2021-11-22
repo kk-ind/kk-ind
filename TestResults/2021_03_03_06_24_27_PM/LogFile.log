@@ -1,0 +1,386 @@
+ INFO | 2021-03-03 18:24:27,412 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 18:24:27,414 | Common.java | 76 | Test Output Directory creation successful :D:\Quarks_NEW\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_06_24_27_PM
+ INFO | 2021-03-03 18:24:27,415 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 18:24:27,971 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 18:24:28,366 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 18:24:28,367 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 18:24:28,564 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 18:24:28,565 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 18:24:28,565 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 18:24:28,826 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:24:28,835 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:24:29,418 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 18:24:39,422 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 18:24:39,424 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 18:24:39,426 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 18:24:39,427 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 18:24:39,444 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 18:24:39,463 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 18:24:39,463 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 18:24:39,464 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 18:24:39,467 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 18:24:39,473 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 18:24:39,474 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 18:24:52,336 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 18:24:52,337 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 18:24:52,338 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 18:24:52,338 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 18:24:52,339 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 18:24:52,343 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2021-03-03 18:24:57,564 | Common.java | 76 | Browser: Open Successful : admin
+ INFO | 2021-03-03 18:24:57,566 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 18:24:57,611 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 18:24:57,612 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 18:24:57,613 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 18:24:57,613 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 18:24:57,697 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 18:24:57,698 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 18:24:57,705 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 18:24:57,706 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 18:24:57,706 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 18:24:57,706 | Common.java | 76 | ############# Start of Test Case[TC_tenantLogin] : Verify the tenant is able to login to the application only with valid credentials #############
+ INFO | 2021-03-03 18:24:57,842 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:24:57,846 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-03-03 18:24:57,865 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:24:57,866 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:24:58,417 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-03-03 18:24:58,429 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:24:58,430 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:24:58,437 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:24:59,433 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:25:00,004 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:25:00,190 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:25:00,366 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 18:25:00,369 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:25:00,370 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:25:00,377 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:25:00,430 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:00,430 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:00,431 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:00,431 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:00,709 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:01,718 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:01,718 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:01,718 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:01,719 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:01,877 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:02,892 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:02,893 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:02,893 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:02,893 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:03,171 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:04,173 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:04,174 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:04,174 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:04,174 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:04,370 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:05,382 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:05,382 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:05,382 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:05,382 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:05,606 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:06,621 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:06,621 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:06,622 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:06,622 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:06,915 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:07,922 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:07,925 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:07,926 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:07,926 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:08,295 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:09,310 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:09,310 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:09,311 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:09,311 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:09,540 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 18:25:10,546 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:10,546 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:25:10,546 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:10,546 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:25:30,551 | Common.java | 76 | Type 'testingpurpose12122@gmail.com' in: Email
+ INFO | 2021-03-03 18:25:30,558 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:25:30,559 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:25:30,565 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:25:30,717 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:30,718 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:25:30,718 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:30,718 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:31,887 | Common.java | 76 | Sucessfully got the text 'Password' for Password
+ INFO | 2021-03-03 18:25:31,914 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:31,914 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:25:31,914 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:31,914 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:32,431 | Common.java | 76 | Click on: Password
+ INFO | 2021-03-03 18:25:32,434 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:25:32,435 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:25:32,438 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:25:32,535 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:32,536 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:25:32,536 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:32,536 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:47,081 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:47,082 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:25:47,082 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:47,082 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:47,292 | Common.java | 76 | Sucessfully got the text '' for Password
+ INFO | 2021-03-03 18:25:47,469 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:25:47,469 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:25:47,469 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:25:47,469 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:19,816 | Common.java | 76 | Type 'tester@123' in: Password
+ INFO | 2021-03-03 18:26:19,820 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:19,821 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:19,828 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:21,333 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 18:26:21,362 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 18:26:21,363 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-03-03 18:26:21,363 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:21,363 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 18:26:22,670 | Common.java | 76 | Click on: Login
+ INFO | 2021-03-03 18:26:22,673 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:22,673 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:22,677 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:23,835 | Common.java | 76 | Tenant login failed using invalid email
+ INFO | 2021-03-03 18:26:23,838 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:23,839 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:23,843 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:23,871 | Common.java | 76 | ################################DataSet: 2################################
+ INFO | 2021-03-03 18:26:23,874 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:23,874 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:23,878 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:23,914 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:26:24,158 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:26:24,322 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 18:26:24,450 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 18:26:24,455 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:24,456 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:24,460 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:24,513 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 18:26:24,513 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 18:26:24,513 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:24,513 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 18:26:47,466 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-03-03 18:26:47,470 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:47,470 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:47,474 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:47,544 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:47,545 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:26:47,545 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:47,545 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:48,069 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 18:26:48,096 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:48,096 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:26:48,096 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:48,096 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:48,571 | Common.java | 76 | Click on: Password
+ INFO | 2021-03-03 18:26:48,574 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:26:48,574 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:26:48,578 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:26:48,665 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:48,665 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:26:48,665 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:48,666 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:54,633 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:54,634 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:26:54,634 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:54,634 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:54,912 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 18:26:54,925 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:26:54,925 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:26:54,925 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:26:54,926 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:00,990 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:00,990 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:00,990 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:00,990 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:01,355 | Common.java | 76 | Sucessfully got the text '•••••••' for Password
+ INFO | 2021-03-03 18:27:01,377 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:01,377 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:01,378 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:01,378 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:06,814 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:06,815 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:06,815 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:06,815 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:07,263 | Common.java | 76 | Sucessfully got the text '•••••••' for Password
+ INFO | 2021-03-03 18:27:07,278 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:07,279 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:07,279 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:07,279 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:12,665 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:12,665 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:12,665 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:12,666 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:12,928 | Common.java | 76 | Sucessfully got the text '•••••••' for Password
+ INFO | 2021-03-03 18:27:12,944 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:12,944 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:12,944 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:12,945 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:16,488 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:16,489 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:16,489 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:16,489 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:16,972 | Common.java | 76 | Sucessfully got the text '•••••••' for Password
+ INFO | 2021-03-03 18:27:16,983 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:16,984 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:16,984 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:16,984 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:19,955 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:19,955 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:19,955 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:19,956 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:20,767 | Common.java | 76 | Sucessfully got the text '•••' for Password
+ INFO | 2021-03-03 18:27:20,785 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:20,785 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:20,785 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:20,785 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:23,812 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:23,813 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:23,813 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:23,813 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:24,633 | Common.java | 76 | Sucessfully got the text '••' for Password
+ INFO | 2021-03-03 18:27:24,657 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:24,657 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:24,657 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:24,658 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:27,792 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:27,792 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:27,793 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:27,793 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:28,097 | Common.java | 76 | Sucessfully got the text '••' for Password
+ INFO | 2021-03-03 18:27:28,112 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:28,112 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:28,112 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:28,112 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:33,446 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:33,446 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:33,446 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:33,447 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:33,900 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:27:33,912 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:33,912 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:33,913 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:33,913 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:38,896 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:38,897 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:38,897 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:38,897 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:39,429 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:27:39,441 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:39,441 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:39,442 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:39,442 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:44,464 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:44,464 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:44,464 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:44,464 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:44,956 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:27:44,974 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:44,974 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:44,975 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:44,975 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:50,007 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:50,008 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:50,008 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:50,008 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:50,518 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:27:50,541 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:50,541 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:50,541 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:50,542 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:55,609 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:55,609 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:55,609 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:55,609 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:56,139 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:27:56,155 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:27:56,155 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:27:56,156 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:27:56,156 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:01,297 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:01,297 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:01,297 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:01,297 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:01,787 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:28:01,809 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:01,809 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:01,810 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:01,810 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:07,022 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:07,022 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:07,023 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:07,023 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:07,524 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:28:07,534 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:07,534 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:07,535 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:07,535 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:12,938 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:12,938 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:12,938 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:12,938 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:13,448 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:28:13,469 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:13,470 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:13,470 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:13,470 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:18,667 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:18,668 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:18,668 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:18,668 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:19,143 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:28:19,155 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:19,155 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:19,156 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:19,156 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:24,164 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:24,164 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:24,164 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:24,164 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:24,670 | Common.java | 76 | Sucessfully got the text '•' for Password
+ INFO | 2021-03-03 18:28:24,690 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:24,691 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:24,691 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:24,691 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:29,925 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:29,925 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:29,925 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:29,925 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:30,424 | Common.java | 76 | Sucessfully got the text '' for Password
+ INFO | 2021-03-03 18:28:30,491 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 18:28:30,491 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 18:28:30,491 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:28:30,491 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 18:29:03,335 | Common.java | 76 | Type '@talo123' in: Password
+ INFO | 2021-03-03 18:29:03,342 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:29:03,342 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:29:03,347 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:29:04,377 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 18:29:04,407 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 18:29:04,408 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-03-03 18:29:04,408 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 18:29:04,408 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 18:29:05,541 | Common.java | 76 | Click on: Login
+ INFO | 2021-03-03 18:29:05,545 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:29:05,546 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:29:05,550 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:29:06,668 | Common.java | 76 | Tenant login failed using invalid password
+ INFO | 2021-03-03 18:29:06,671 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 18:29:06,672 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 18:29:06,676 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 18:29:06,697 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2021-03-03 18:29:07,706 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-03-03 18:29:07,706 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-03-03 18:29:07,710 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:29:07,715 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:29:07,719 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 18:29:07,720 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 18:29:07,720 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:29:11,434 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2021-03-03 18:29:11,436 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 18:29:11,436 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 18:29:11,437 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 18:29:11,441 | Common.java | 76 | ###################################
+ INFO | 2021-03-03 18:29:11,441 | Common.java | 76 | Script Execution Complete
+ INFO | 2021-03-03 18:29:11,441 | Common.java | 76 | ###################################

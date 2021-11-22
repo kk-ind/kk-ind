@@ -1,0 +1,278 @@
+ INFO | 2021-03-03 15:53:21,689 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 15:53:21,693 | Common.java | 76 | Test Output Directory creation successful :D:\Quarks_NEW\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_03_53_21_PM
+ INFO | 2021-03-03 15:53:21,694 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 15:53:22,408 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 15:53:22,870 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 15:53:22,871 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 15:53:23,016 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 15:53:23,016 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 15:53:23,017 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 15:53:23,267 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 15:53:23,281 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 15:53:23,988 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 15:53:33,998 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 15:53:34,001 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 15:53:34,002 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 15:53:34,004 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 15:53:34,011 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 15:53:34,026 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 15:53:34,027 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 15:53:34,031 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 15:53:34,033 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 15:53:34,034 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 15:53:34,036 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 15:53:48,940 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 15:53:48,940 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 15:53:48,941 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 15:53:48,941 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 15:53:48,941 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 15:53:48,945 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2021-03-03 15:53:54,933 | Common.java | 76 | Browser: Open Successful : admin
+ INFO | 2021-03-03 15:53:54,934 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 15:53:54,972 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 15:53:54,973 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 15:53:54,973 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 15:53:54,973 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 15:53:55,065 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 15:53:55,066 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 15:53:55,066 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 15:53:55,067 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 15:53:55,067 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 15:53:55,067 | Common.java | 76 | ############# Start of Test Case[TC_tenantLogin] : Verify the tenant is able to login to the application only with valid credentials #############
+ INFO | 2021-03-03 15:53:55,197 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:53:55,202 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-03-03 15:53:55,284 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:53:55,285 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:53:56,102 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-03-03 15:53:56,108 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:53:56,109 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:53:56,190 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:53:57,385 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:53:57,645 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:53:57,806 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:53:58,029 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 15:53:58,043 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:53:58,044 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:53:58,048 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:53:58,132 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 15:53:58,134 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 15:53:58,135 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:53:58,135 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 15:53:58,565 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 15:53:59,567 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 15:53:59,567 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 15:53:59,567 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:53:59,567 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 15:53:59,805 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 15:54:00,807 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 15:54:00,807 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 15:54:00,807 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:54:00,808 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 15:54:01,086 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 15:54:02,099 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 15:54:02,099 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 15:54:02,100 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:54:02,100 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 15:54:21,302 | Common.java | 76 | Type 'testingpurpose12122@gmail.com' in: Email
+ INFO | 2021-03-03 15:54:21,306 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:54:21,307 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:54:21,313 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:54:21,376 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 15:54:21,377 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 15:54:21,377 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:54:21,377 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 15:54:22,379 | Common.java | 76 | Sucessfully got the text 'Password' for Password
+ INFO | 2021-03-03 15:55:10,787 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 15:55:10,791 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 15:55:10,795 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:55:10,798 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 15:55:11,487 | Common.java | 76 | Click on: Password
+ INFO | 2021-03-03 15:55:11,959 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:55:11,969 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:55:12,045 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:55:40,968 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 15:55:40,971 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 15:55:40,974 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:55:40,978 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 15:56:09,523 | Common.java | 76 | Type 'tester@123' in: Password
+ INFO | 2021-03-03 15:56:09,720 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:09,730 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:09,829 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:16,406 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 15:56:16,447 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 15:56:16,447 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-03-03 15:56:16,447 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:56:16,447 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 15:56:17,996 | Common.java | 76 | Click on: Login
+ INFO | 2021-03-03 15:56:17,999 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:18,000 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:18,004 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:28,002 | Common.java | 76 | Tenant login failed using invalid email
+ INFO | 2021-03-03 15:56:28,010 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:28,014 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:28,024 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:28,084 | Common.java | 76 | ################################DataSet: 2################################
+ INFO | 2021-03-03 15:56:28,091 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:28,091 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:28,103 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:28,215 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:56:28,423 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:56:28,569 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 15:56:28,705 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 15:56:28,712 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:28,713 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:28,717 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:28,762 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 15:56:28,762 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 15:56:28,762 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:56:28,762 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 15:56:46,061 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-03-03 15:56:46,067 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:56:46,068 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:56:46,074 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 15:56:46,147 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 15:56:46,147 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 15:56:46,147 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:56:46,147 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 15:56:46,739 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 15:58:14,705 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 15:58:14,710 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 15:58:14,713 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 15:58:14,715 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 15:58:15,330 | Common.java | 76 | Click on: Password
+ INFO | 2021-03-03 15:58:15,604 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 15:58:15,615 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 15:58:15,735 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 16:04:17,987 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 16:04:17,991 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 16:04:17,994 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:04:17,997 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 16:04:39,148 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-03-03 16:04:39,329 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 16:04:39,335 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 16:04:39,451 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 16:04:54,521 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:04:54,526 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:04:54,529 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:04:54,534 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:04:54,894 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 16:05:17,442 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 16:05:17,448 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 16:05:17,454 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:05:17,457 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 16:05:33,225 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-03-03 16:05:33,365 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 16:05:33,374 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 16:05:33,500 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 16:05:43,897 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:05:43,901 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:05:43,904 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:05:43,908 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:05:44,259 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 16:05:49,397 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:05:49,401 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:05:49,404 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:05:49,406 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:05:49,938 | Common.java | 76 | Click on: Password
+ INFO | 2021-03-03 16:05:50,114 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 16:05:50,120 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 16:05:50,223 | Common.java | 76 | XML file is saved and closed
+ERROR | 2021-03-03 16:07:34,248 | Common.java | 84 | Typing 'Keys.DELETE' in : Password
+ERROR | 2021-03-03 16:07:34,256 | Common.java | 84 | Element is not in editable state 'Password
+ERROR | 2021-03-03 16:07:34,257 | Common.java | 84 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 45.48 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 940cf0ac-00bb-4d0c-ad60-96b5ec8895fd
+*** Element info: {Using=xpath, value=Password#xpath=//android.widget.EditText[2]}
+ INFO | 2021-03-03 16:07:36,117 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 16:07:36,118 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:36,119 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:36,120 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:36,128 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:36,134 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 16:07:36,158 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:36,158 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:07:36,158 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:07:36,158 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:36,284 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ERROR | 2021-03-03 16:07:39,435 | Common.java | 84 | Typing 'Keys.DELETE' in : Password
+ERROR | 2021-03-03 16:07:39,436 | Common.java | 84 | Element is not in editable state 'Password
+ERROR | 2021-03-03 16:07:39,436 | Common.java | 84 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 940cf0ac-00bb-4d0c-ad60-96b5ec8895fd
+*** Element info: {Using=xpath, value=Password#xpath=//android.widget.EditText[2]}
+ INFO | 2021-03-03 16:07:41,400 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 16:07:41,401 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:41,401 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:41,402 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:41,402 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:41,403 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 16:07:41,441 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:41,441 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:07:41,441 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:07:41,441 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:41,592 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ERROR | 2021-03-03 16:07:44,814 | Common.java | 84 | Typing 'Keys.DELETE' in : Password
+ERROR | 2021-03-03 16:07:44,815 | Common.java | 84 | Element is not in editable state 'Password
+ERROR | 2021-03-03 16:07:44,815 | Common.java | 84 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.20 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 940cf0ac-00bb-4d0c-ad60-96b5ec8895fd
+*** Element info: {Using=xpath, value=Password#xpath=//android.widget.EditText[2]}
+ INFO | 2021-03-03 16:07:46,648 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 16:07:46,649 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:46,649 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:46,650 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:46,650 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:46,651 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 16:07:46,668 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:46,668 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:07:46,668 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:07:46,668 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:46,762 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ERROR | 2021-03-03 16:07:49,901 | Common.java | 84 | Typing 'Keys.DELETE' in : Password
+ERROR | 2021-03-03 16:07:49,901 | Common.java | 84 | Element is not in editable state 'Password
+ERROR | 2021-03-03 16:07:49,901 | Common.java | 84 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 940cf0ac-00bb-4d0c-ad60-96b5ec8895fd
+*** Element info: {Using=xpath, value=Password#xpath=//android.widget.EditText[2]}
+ INFO | 2021-03-03 16:07:51,790 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 16:07:51,790 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:51,791 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:51,791 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:51,791 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 16:07:51,791 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 16:07:51,812 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:51,812 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 16:07:51,812 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 16:07:51,812 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 16:07:51,919 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ERROR | 2021-03-03 16:07:54,964 | Common.java | 84 | Typing 'Keys.DELETE' in : Password
+ERROR | 2021-03-03 16:07:54,964 | Common.java | 84 | Element is not in editable state 'Password
+ERROR | 2021-03-03 16:07:54,965 | Common.java | 84 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 940cf0ac-00bb-4d0c-ad60-96b5ec8895fd
+*** Element info: {Using=xpath, value=Password#xpath=//android.widget.EditText[2]}

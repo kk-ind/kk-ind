@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><suite name="Suite" parallel="tests" thread-count="20">
+  <test id="1" name="Android-Web">
+    <parameter name="selenium.machinename" value="Android-Web"/>
+    <parameter name="selenium.host" value="0.0.0.0"/>
+    <parameter name="selenium.port" value="4723"/>
+    <parameter name="selenium.browser" value="Atalo"/>
+    <parameter id="1" name="selenium.url" value="https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin"/>
+    <parameter id="1" name="selenium.os" value="Android"/>
+    <parameter id="1" name="selenium.browserVersion" value="0.1.212"/>
+    <parameter id="1" name="selenium.osVersion" value="9"/>
+    <parameter id="1" name="TestData.SheetNumber" value="1"/>
+    <classes name="1">
+      <class id="1" name="TestCases.TestCases"/>
+      <methods id="1">
+        <exclude name="TC_tenantRegistration"/>
+        <include name="TC_tenantLogin"/>
+      </methods>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,873 @@
+ INFO | 2021-02-26 01:01:06,454 | Common.java | 76 | Startup activites...
+ INFO | 2021-02-26 01:01:06,469 | Common.java | 76 | Test Output Directory creation successful :D:\POC\QuarksSolution\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_02_26_01_01_06_AM
+ INFO | 2021-02-26 01:01:06,469 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-02-26 01:01:06,987 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:01:07,409 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-02-26 01:01:07,415 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-02-26 01:01:07,571 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-02-26 01:01:07,571 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-02-26 01:01:07,571 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-02-26 01:01:07,758 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:01:07,758 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:01:07,972 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-02-26 01:01:17,985 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-02-26 01:01:17,988 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:01:17,988 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-02-26 01:01:17,988 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:01:17,988 | Common.java | 76 | Element time out set
+ INFO | 2021-02-26 01:01:17,988 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:01:18,004 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-02-26 01:01:18,004 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-02-26 01:01:18,004 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-02-26 01:01:18,004 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-02-26 01:01:18,004 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-02-26 01:01:24,771 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-02-26 01:01:24,781 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-02-26 01:01:24,781 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:01:24,782 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-02-26 01:01:24,782 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-02-26 01:01:24,782 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2021-02-26 01:01:26,892 | Common.java | 76 | Browser: Open Successful : admin
+ INFO | 2021-02-26 01:01:26,898 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-02-26 01:01:26,967 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-02-26 01:01:26,967 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-02-26 01:01:26,967 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-02-26 01:01:26,967 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | Element time out set
+ INFO | 2021-02-26 01:01:27,067 | Common.java | 76 | ############# Start of Test Case[TC_tenantRegistration] : Verify the tenant is able to register to the application #############
+ INFO | 2021-02-26 01:01:27,105 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:27,105 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-02-26 01:01:27,105 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:27,105 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:01:27,352 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-02-26 01:01:27,352 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:27,352 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:27,368 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:27,824 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:01:28,042 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:01:28,238 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:01:28,379 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:01:28,529 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-02-26 01:01:28,529 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:28,529 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:28,545 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:28,654 | Common.java | 76 | Parsing Locator: Register#xpath=//android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-02-26 01:01:28,654 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-02-26 01:01:28,654 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:01:28,655 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Register']
+ INFO | 2021-02-26 01:01:29,722 | Common.java | 76 | Click on: Register
+ INFO | 2021-02-26 01:01:29,729 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:29,729 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:29,729 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:30,362 | Common.java | 76 | Application navigated to tenant registration page
+ INFO | 2021-02-26 01:01:30,377 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:30,377 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:30,377 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:30,431 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-02-26 01:01:30,431 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-02-26 01:01:30,431 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:01:30,431 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customemail')]
+ INFO | 2021-02-26 01:01:38,565 | Common.java | 76 | Type 'automationtesting2503@gmail.com' in: Email
+ INFO | 2021-02-26 01:01:38,571 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:38,571 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:38,587 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:38,650 | Common.java | 76 | Parsing Locator: First Name#xpath=//android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-02-26 01:01:38,650 | Common.java | 76 | Android-Web - Locator Description : First Name
+ INFO | 2021-02-26 01:01:38,650 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:01:38,650 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customname')]
+ INFO | 2021-02-26 01:01:47,643 | Common.java | 76 | Type 'Tester' in: First Name
+ INFO | 2021-02-26 01:01:47,654 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:47,654 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:47,654 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:47,712 | Common.java | 76 | Parsing Locator: Last Name#xpath=//android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-02-26 01:01:47,712 | Common.java | 76 | Android-Web - Locator Description : Last Name
+ INFO | 2021-02-26 01:01:47,712 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:01:47,712 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[contains(@text,'customlast')]
+ INFO | 2021-02-26 01:01:58,747 | Common.java | 76 | Type 'Yaseen' in: Last Name
+ INFO | 2021-02-26 01:01:58,759 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:01:58,759 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:01:58,759 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:01:59,433 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-02-26 01:01:59,464 | Common.java | 76 | Parsing Locator: Submit#xpath=//android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-02-26 01:01:59,464 | Common.java | 76 | Android-Web - Locator Description : Submit
+ INFO | 2021-02-26 01:01:59,464 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:01:59,464 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Submit']
+ INFO | 2021-02-26 01:02:00,954 | Common.java | 76 | Click on: Submit
+ INFO | 2021-02-26 01:02:00,970 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:00,970 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:00,986 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:02,924 | Common.java | 76 | Tenant registered successfully
+ INFO | 2021-02-26 01:02:02,930 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:02,930 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:02,930 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:02,977 | Common.java | 76 | Parsing Locator: Back#xpath=//android.view.View/android.widget.Button[@content-desc='Back']
+ INFO | 2021-02-26 01:02:02,977 | Common.java | 76 | Android-Web - Locator Description : Back
+ INFO | 2021-02-26 01:02:02,977 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:02,977 | Common.java | 76 | Android-Web - Locator: //android.view.View/android.widget.Button[@content-desc='Back']
+ INFO | 2021-02-26 01:02:04,034 | Common.java | 76 | Click on: Back
+ INFO | 2021-02-26 01:02:04,053 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:04,053 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:04,053 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:04,107 | Common.java | 76 | Switched to 'Admin' Application
+ INFO | 2021-02-26 01:02:04,107 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:04,107 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:04,123 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:04,149 | Common.java | 76 | Getting value of Host Name from Test Configuration file : pop.gmail.com
+ INFO | 2021-02-26 01:02:04,149 | Common.java | 76 | Getting value of Port Number from Test Configuration file : 995
+ INFO | 2021-02-26 01:02:04,149 | Common.java | 76 | Getting value of e-mail User Name from Test Configuration file : 
+ INFO | 2021-02-26 01:02:04,149 | Common.java | 76 | Getting value of e-mail Password from Test Configuration file : 
+ INFO | 2021-02-26 01:02:18,165 | Common.java | 76 | Debug
+ INFO | 2021-02-26 01:02:20,019 | Common.java | 76 | Getting value of Check Folder from Test Configuration file : Inbox
+ INFO | 2021-02-26 01:02:20,659 | Common.java | 76 | No. of Unread Messages : 3
+ INFO | 2021-02-26 01:02:22,685 | Common.java | 76 | MESSAGE #1:
+ INFO | 2021-02-26 01:02:22,703 | Common.java | 76 | MESSAGE #2:
+ INFO | 2021-02-26 01:02:22,703 | Common.java | 76 | MESSAGE #3:
+ INFO | 2021-02-26 01:02:22,703 | Common.java | 76 | FROM: alirezaei15@hotmail.com
+ INFO | 2021-02-26 01:02:22,703 | Common.java | 76 | TO: automationtesting2503@gmail.com
+ INFO | 2021-02-26 01:02:23,145 | Common.java | 76 | Subject : Complete your registration to Atalo
+ INFO | 2021-02-26 01:02:23,145 | Common.java | 76 | Sent Date : Fri Feb 26 01:00:21 IST 2021
+ INFO | 2021-02-26 01:02:23,145 | Common.java | 76 | Content : <!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="https://fonts.googleapis.com/css2?family=Oxygen&amp;display=swap" rel="stylesheet">
+
+<!-- utf-8 works for most cases -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Forcing initial-scale shouldn't be necessary -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Use the latest (edge) version of IE rendering engine -->
+<title>Atalo Invitation</title>
+<!-- The title tag shows in email notifications, like Android 4.4. --> 
+<!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients --> 
+<!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding screen sizes are encountered --> 
+
+<!-- CSS Reset -->
+<style type="text/css">
+/* What it does: Remove spaces around the email design added by some email clients. */
+      /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+/* What it does: Stops email clients resizing small text. */
+* {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/* What it does: Forces Outlook.com to display emails full width. */
+.ExternalClass {
+    width: 100%;
+}
+/* What is does: Centers email on Android 4.4 */
+div[style*="margin: 16px 0"] {
+    margin: 0 !important;
+}
+/* What it does: Stops Outlook from adding extra spacing to tables. */
+table, td {
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+}
+/* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+table {
+    border-spacing: 0 !important;
+    border-collapse: collapse !important;
+    table-layout: fixed !important;
+    margin: 0 auto !important;
+}
+table table table {
+    table-layout: auto;
+}
+/* What it does: Uses a better rendering method when resizing images in IE. */
+img {
+    -ms-interpolation-mode: bicubic;
+}
+/* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+.yshortcuts a {
+    border-bottom: none !important;
+}
+/* What it does: Another work-around for iOS meddling in triggered links. */
+a[x-apple-data-detectors] {
+    color: inherit !important;
+}
+</style>
+
+<!-- Progressive Enhancements -->
+<style type="text/css">
+ 
+/* What it does: Hover styles for buttons */
+.button-td, .button-a {
+    transition: all 100ms ease-in;
+}
+.button-td:hover, .button-a:hover {
+    background: #555555 !important;
+    border-color: #555555 !important;
+}
+
+/* Media Queries */
+@media screen and ( max-width : 600px ) {
+.email-container {
+    width: 100% !important;
+}
+/* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+.fluid, .fluid-centered {
+    max-width: 100% !important;
+    height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+/* And center justify these ones. */
+.fluid-centered {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+/* What it does: Forces table cells into full-width rows. */
+.stack-column, .stack-column-center {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    direction: ltr !important;
+}
+/* And center justify these ones. */
+.stack-column-center {
+    text-align: center !important;
+}
+/* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+.center-on-narrow {
+    text-align: center !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+}
+table.center-on-narrow {
+    display: inline-block !important;
+}
+}
+</style>
+</head>
+<body bgcolor="white" width="100%" style="margin: 0;" yahoo="yahoo">
+<table bgcolor="" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;">
+  <tr>
+    <td><center style="width: 100%;">
+        
+        <!-- Visually Hidden Preheader Text : BEGIN -->
+        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> Final step of the registration </div>
+        <!-- Visually Hidden Preheader Text : END --> 
+        
+        <!-- Email Header : BEGIN -->
+        <table align="center" width="600" class="email-container">
+          <tr>
+            <td style="padding: 0; text-align: center"><img src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Fbanner.png?alt=media&amp;token=46c2a10e-cd44-4b0d-bc8a-64535493c755" width="100%" alt="alt_text" border="0"></td>
+          </tr>
+        </table>
+        <!-- Email Header : END --> 
+        
+        <!-- Email Body : BEGIN -->
+        <table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="600" class="email-container">
+          
+          <!-- Hero Image, Flush : BEGIN -->
+          <div style="background-color: white;
+    min-height: 70px; 
+    width: 100%;
+    font-family: sans-serif;
+    padding-top: 20px;">
+            <h4>Hi Tester Yaseen</h4>
+			  <p>
+			  Thank you for using Atalo. There is one step left before you can start your journey with us.</p>
+          </div>
+          <tr>
+            <td class="full-width-image"><img src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Femail%2Fregistration.png?alt=media&amp;token=a656f7bf-3404-40df-89ab-cfeca584b228" width="400" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;"></td>
+          </tr>
+          <!-- Hero Image, Flush : END --> 
+          
+          <!-- 1 Column Text : BEGIN -->
+          <tr>
+            <td style=" text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #555555;">Your email address has now been confirmed. Please complete your registration<br>
+              <br>
+              <div>
+				  <a href="https://conciergeapp-test-76ff6.firebaseapp.com//auth/signup?email=automationtesting2503@gmail.com" target="_blank" class="v-size-width" style="box-sizing: border-box;display: inline-block;font-family:'Montserrat',sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #7F5DE1; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;">
+      <span class="v-padding" style="display:block;padding:15px 33px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px;"><strong><span style="line-height: 19.2px; font-size: 16px;">Complete Registration</span></strong></span></span>
+    </a>
+              </div>
+           
+              <br>
+              <div>
+                <h3> Available for download on</h3>
+              </div>
+              <div style="padding: 20px;">
+                <div> <img style="	width: 240px;
+    object-fit: contain; float:left" alt="appleicon" src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Ficons%2Fapplebrandlogo.png?alt=media&amp;token=08da94b4-eb04-4b31-8f40-50cd6b0e0b6e"> </div>
+                <div> <img style="	width: 240px;
+    object-fit: contain; float:right" alt="appleicon" src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Ficons%2Fgooglebrandlogo.png?alt=media&amp;token=185495fd-5b9c-41fd-af31-69cdda4fac8b"> </div>
+              </div>
+              
+              <!-- Button : END --></td>
+          </tr>
+          <!-- 1 Column Text : BEGIN --> 
+          
+          <!-- Background Image with Text : BEGIN -->
+          <tr>
+            <td background="images/Image_600x230.png" bgcolor="#222222" valign="middle" style="text-align: center; background-position: center center !important; background-size: cover !important;"><!--[if gte mso 9]>
+                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:175px; background-position: center center !important;">
+                    <v:fill type="tile" src="assets/Responsive/Image_600x230.png" color="#222222" />
+                    <v:textbox inset="0,0,0,0">
+                    <![endif]--> 
+              
+              <!--[if gte mso 9]>
+                    </v:textbox>
+                    </v:rect>
+                    <![endif]--></td>
+          </tr>
+          <!-- Background Image with Text : END -->
+          
+        </table>
+        <!-- Email Body : END --> 
+        
+        <!-- Email Footer : BEGIN -->
+        <table align="center" width="600" class="email-container">
+          <tr>
+            <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;"><br>
+              <br>
+              Quarksolution <br>
+              <span class="mobile-link--footer">Atalo Systems</span> <br>
+              <br></td>
+          </tr>
+        </table>
+        <!-- Email Footer : END -->
+        
+      </center></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+ INFO | 2021-02-26 01:02:23,693 | Common.java | 76 | <!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="https://fonts.googleapis.com/css2?family=Oxygen&amp;display=swap" rel="stylesheet">
+
+<!-- utf-8 works for most cases -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Forcing initial-scale shouldn't be necessary -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Use the latest (edge) version of IE rendering engine -->
+<title>Atalo Invitation</title>
+<!-- The title tag shows in email notifications, like Android 4.4. --> 
+<!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients --> 
+<!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding screen sizes are encountered --> 
+
+<!-- CSS Reset -->
+<style type="text/css">
+/* What it does: Remove spaces around the email design added by some email clients. */
+      /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+/* What it does: Stops email clients resizing small text. */
+* {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/* What it does: Forces Outlook.com to display emails full width. */
+.ExternalClass {
+    width: 100%;
+}
+/* What is does: Centers email on Android 4.4 */
+div[style*="margin: 16px 0"] {
+    margin: 0 !important;
+}
+/* What it does: Stops Outlook from adding extra spacing to tables. */
+table, td {
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+}
+/* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+table {
+    border-spacing: 0 !important;
+    border-collapse: collapse !important;
+    table-layout: fixed !important;
+    margin: 0 auto !important;
+}
+table table table {
+    table-layout: auto;
+}
+/* What it does: Uses a better rendering method when resizing images in IE. */
+img {
+    -ms-interpolation-mode: bicubic;
+}
+/* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+.yshortcuts a {
+    border-bottom: none !important;
+}
+/* What it does: Another work-around for iOS meddling in triggered links. */
+a[x-apple-data-detectors] {
+    color: inherit !important;
+}
+</style>
+
+<!-- Progressive Enhancements -->
+<style type="text/css">
+ 
+/* What it does: Hover styles for buttons */
+.button-td, .button-a {
+    transition: all 100ms ease-in;
+}
+.button-td:hover, .button-a:hover {
+    background: #555555 !important;
+    border-color: #555555 !important;
+}
+
+/* Media Queries */
+@media screen and ( max-width : 600px ) {
+.email-container {
+    width: 100% !important;
+}
+/* What it does: Forces elements to resize to the full width of their container. Useful for resizing images beyond their max-width. */
+.fluid, .fluid-centered {
+    max-width: 100% !important;
+    height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+/* And center justify these ones. */
+.fluid-centered {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+/* What it does: Forces table cells into full-width rows. */
+.stack-column, .stack-column-center {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    direction: ltr !important;
+}
+/* And center justify these ones. */
+.stack-column-center {
+    text-align: center !important;
+}
+/* What it does: Generic utility class for centering. Useful for images, buttons, and nested tables. */
+.center-on-narrow {
+    text-align: center !important;
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none !important;
+}
+table.center-on-narrow {
+    display: inline-block !important;
+}
+}
+</style>
+</head>
+<body bgcolor="white" width="100%" style="margin: 0;" yahoo="yahoo">
+<table bgcolor="" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;">
+  <tr>
+    <td><center style="width: 100%;">
+        
+        <!-- Visually Hidden Preheader Text : BEGIN -->
+        <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> Final step of the registration </div>
+        <!-- Visually Hidden Preheader Text : END --> 
+        
+        <!-- Email Header : BEGIN -->
+        <table align="center" width="600" class="email-container">
+          <tr>
+            <td style="padding: 0; text-align: center"><img src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Fbanner.png?alt=media&amp;token=46c2a10e-cd44-4b0d-bc8a-64535493c755" width="100%" alt="alt_text" border="0"></td>
+          </tr>
+        </table>
+        <!-- Email Header : END --> 
+        
+        <!-- Email Body : BEGIN -->
+        <table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="600" class="email-container">
+          
+          <!-- Hero Image, Flush : BEGIN -->
+          <div style="background-color: white;
+    min-height: 70px; 
+    width: 100%;
+    font-family: sans-serif;
+    padding-top: 20px;">
+            <h4>Hi Tester Yaseen</h4>
+			  <p>
+			  Thank you for using Atalo. There is one step left before you can start your journey with us.</p>
+          </div>
+          <tr>
+            <td class="full-width-image"><img src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Femail%2Fregistration.png?alt=media&amp;token=a656f7bf-3404-40df-89ab-cfeca584b228" width="400" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;"></td>
+          </tr>
+          <!-- Hero Image, Flush : END --> 
+          
+          <!-- 1 Column Text : BEGIN -->
+          <tr>
+            <td style=" text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 20px; color: #555555;">Your email address has now been confirmed. Please complete your registration<br>
+              <br>
+              <div>
+				  <a href="https://conciergeapp-test-76ff6.firebaseapp.com//auth/signup?email=automationtesting2503@gmail.com" target="_blank" class="v-size-width" style="box-sizing: border-box;display: inline-block;font-family:'Montserrat',sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #7F5DE1; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;">
+      <span class="v-padding" style="display:block;padding:15px 33px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px;"><strong><span style="line-height: 19.2px; font-size: 16px;">Complete Registration</span></strong></span></span>
+    </a>
+              </div>
+           
+              <br>
+              <div>
+                <h3> Available for download on</h3>
+              </div>
+              <div style="padding: 20px;">
+                <div> <img style="	width: 240px;
+    object-fit: contain; float:left" alt="appleicon" src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Ficons%2Fapplebrandlogo.png?alt=media&amp;token=08da94b4-eb04-4b31-8f40-50cd6b0e0b6e"> </div>
+                <div> <img style="	width: 240px;
+    object-fit: contain; float:right" alt="appleicon" src="https://firebasestorage.googleapis.com/v0/b/conceriageapp-dev.appspot.com/o/application%2Fimages%2Ficons%2Fgooglebrandlogo.png?alt=media&amp;token=185495fd-5b9c-41fd-af31-69cdda4fac8b"> </div>
+              </div>
+              
+              <!-- Button : END --></td>
+          </tr>
+          <!-- 1 Column Text : BEGIN --> 
+          
+          <!-- Background Image with Text : BEGIN -->
+          <tr>
+            <td background="images/Image_600x230.png" bgcolor="#222222" valign="middle" style="text-align: center; background-position: center center !important; background-size: cover !important;"><!--[if gte mso 9]>
+                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:175px; background-position: center center !important;">
+                    <v:fill type="tile" src="assets/Responsive/Image_600x230.png" color="#222222" />
+                    <v:textbox inset="0,0,0,0">
+                    <![endif]--> 
+              
+              <!--[if gte mso 9]>
+                    </v:textbox>
+                    </v:rect>
+                    <![endif]--></td>
+          </tr>
+          <!-- Background Image with Text : END -->
+          
+        </table>
+        <!-- Email Body : END --> 
+        
+        <!-- Email Footer : BEGIN -->
+        <table align="center" width="600" class="email-container">
+          <tr>
+            <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;"><br>
+              <br>
+              Quarksolution <br>
+              <span class="mobile-link--footer">Atalo Systems</span> <br>
+              <br></td>
+          </tr>
+        </table>
+        <!-- Email Footer : END -->
+        
+      </center></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+ INFO | 2021-02-26 01:02:23,712 | Common.java | 76 | Navigating to URL : https://conciergeapp-test-76ff6.firebaseapp.com//auth/signup?email=automationtesting2503@gmail.com
+ INFO | 2021-02-26 01:02:25,496 | Common.java | 76 | Navigation Successful : https://conciergeapp-test-76ff6.firebaseapp.com//auth/signup?email=automationtesting2503@gmail.com
+ INFO | 2021-02-26 01:02:25,497 | Common.java | 76 | Navigate to : https://conciergeapp-test-76ff6.firebaseapp.com//auth/signup?email=automationtesting2503@gmail.com
+ INFO | 2021-02-26 01:02:25,505 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:25,506 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:25,512 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:25,565 | Common.java | 76 | Parsing Locator: Password#xpath=(//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:25,565 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:02:25,565 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:25,565 | Common.java | 76 | Android-Web - Locator: (//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:25,774 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:26,793 | Common.java | 76 | Parsing Locator: Password#xpath=(//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:26,793 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:02:26,793 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:26,795 | Common.java | 76 | Android-Web - Locator: (//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:27,009 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:28,021 | Common.java | 76 | Parsing Locator: Password#xpath=(//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:28,021 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:02:28,021 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:28,022 | Common.java | 76 | Android-Web - Locator: (//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:28,931 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:29,934 | Common.java | 76 | Parsing Locator: Password#xpath=(//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:29,936 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:02:29,937 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:29,937 | Common.java | 76 | Android-Web - Locator: (//span[text()='Password']/preceding::input)[2]
+ INFO | 2021-02-26 01:02:30,302 | Common.java | 76 | Type 'testing@123' in: Password
+ INFO | 2021-02-26 01:02:30,304 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:30,305 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:30,308 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:30,403 | Common.java | 76 | Parsing Locator: Register#xpath=//button[@type='submit']
+ INFO | 2021-02-26 01:02:30,403 | Common.java | 76 | Android-Web - Locator Description : Register
+ INFO | 2021-02-26 01:02:30,403 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:30,403 | Common.java | 76 | Android-Web - Locator: //button[@type='submit']
+ INFO | 2021-02-26 01:02:30,562 | Common.java | 76 | Click on: Register
+ INFO | 2021-02-26 01:02:30,565 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:30,565 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:30,570 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:30,652 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:30,652 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:30,652 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:30,652 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:30,689 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:31,708 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:31,708 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:31,709 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:31,709 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:31,758 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:32,759 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:32,759 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:32,760 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:32,761 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:32,812 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:33,834 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:33,834 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:33,836 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:33,836 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:33,899 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:34,915 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:34,915 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:34,915 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:34,915 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:35,021 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-02-26 01:02:36,039 | Common.java | 76 | Parsing Locator: Heading#xpath=//h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:36,040 | Common.java | 76 | Android-Web - Locator Description : Heading
+ INFO | 2021-02-26 01:02:36,040 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:36,040 | Common.java | 76 | Android-Web - Locator: //h4[contains(text(),'Registeration')]
+ INFO | 2021-02-26 01:02:36,124 | Common.java | 76 | Sucessfully got the text 'Registeration Complete' for Heading
+ INFO | 2021-02-26 01:02:36,155 | Common.java | 76 | Parsing Locator: Paragraph#xpath=//p[contains(text(),'registeration')]
+ INFO | 2021-02-26 01:02:36,155 | Common.java | 76 | Android-Web - Locator Description : Paragraph
+ INFO | 2021-02-26 01:02:36,155 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:36,155 | Common.java | 76 | Android-Web - Locator: //p[contains(text(),'registeration')]
+ INFO | 2021-02-26 01:02:36,224 | Common.java | 76 | Sucessfully got the text 'You've completed the registeration. You can now login on your device.' for Paragraph
+ INFO | 2021-02-26 01:02:36,356 | Common.java | 76 | Tenant password set successful
+ INFO | 2021-02-26 01:02:36,356 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:36,356 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:36,356 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:36,424 | Common.java | 76 | Parsing Locator: Sign Out#xpath=//span[contains(text(),'Sign Out')]
+ INFO | 2021-02-26 01:02:36,424 | Common.java | 76 | Android-Web - Locator Description : Sign Out
+ INFO | 2021-02-26 01:02:36,424 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:36,424 | Common.java | 76 | Android-Web - Locator: //span[contains(text(),'Sign Out')]
+ INFO | 2021-02-26 01:02:36,537 | Common.java | 76 | Click on: Sign Out
+ INFO | 2021-02-26 01:02:36,540 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:36,540 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:36,546 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:36,652 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-02-26 01:02:36,654 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:36,655 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:36,659 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:36,705 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-02-26 01:02:36,705 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-02-26 01:02:36,705 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:36,705 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-02-26 01:02:47,826 | Common.java | 76 | Type 'automationtesting2503@gmail.com' in: Email
+ INFO | 2021-02-26 01:02:47,840 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:47,840 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:47,840 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:47,918 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-02-26 01:02:47,920 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:02:47,920 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:47,920 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-02-26 01:02:58,086 | Common.java | 76 | Type 'testing@123' in: Password
+ INFO | 2021-02-26 01:02:58,094 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:58,094 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:58,094 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:02:58,757 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-02-26 01:02:58,788 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:02:58,788 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-02-26 01:02:58,788 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:02:58,788 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:02:59,930 | Common.java | 76 | Click on: Login
+ INFO | 2021-02-26 01:02:59,948 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:02:59,948 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:02:59,948 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:03,574 | Common.java | 76 | Tenant login successful
+ INFO | 2021-02-26 01:03:03,589 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:03,589 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:03,605 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:03,743 | Common.java | 76 | Parsing Locator: Sign Out#xpath=//android.widget.Button[@content-desc='Sign Out']
+ INFO | 2021-02-26 01:03:03,743 | Common.java | 76 | Android-Web - Locator Description : Sign Out
+ INFO | 2021-02-26 01:03:03,743 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:03,743 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Sign Out']
+ INFO | 2021-02-26 01:03:04,075 | Common.java | 76 | Click on: Sign Out
+ INFO | 2021-02-26 01:03:04,079 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:04,079 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:04,079 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:07,719 | Common.java | 76 | Successfully signed out of the tenant android application
+ INFO | 2021-02-26 01:03:07,732 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:07,733 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:07,734 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:07,741 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2021-02-26 01:03:08,761 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-02-26 01:03:08,764 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-02-26 01:03:08,782 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:03:08,797 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:03:08,797 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Element time out set
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | ############# Start of Test Case[TC_tenantLogin] : Verify the tenant is able to login to the application only with valid credentials #############
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:08,813 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-02-26 01:03:08,829 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:08,829 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:09,061 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-02-26 01:03:09,077 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:09,077 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:09,077 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:09,096 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:09,224 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:09,362 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:09,478 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-02-26 01:03:09,478 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:09,478 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:09,493 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:09,525 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-02-26 01:03:09,525 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-02-26 01:03:09,525 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:09,525 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-02-26 01:03:20,574 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-02-26 01:03:20,578 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:20,578 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:20,580 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:20,612 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-02-26 01:03:20,612 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:03:20,612 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:20,612 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-02-26 01:03:30,758 | Common.java | 76 | Type 'tester@123' in: Password
+ INFO | 2021-02-26 01:03:30,763 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:30,763 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:30,778 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:31,444 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-02-26 01:03:31,491 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:03:31,491 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-02-26 01:03:31,491 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:31,491 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:03:32,599 | Common.java | 76 | Click on: Login
+ INFO | 2021-02-26 01:03:32,616 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:32,616 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:32,616 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:35,373 | Common.java | 76 | Tenant login successful
+ INFO | 2021-02-26 01:03:35,387 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:35,387 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:35,387 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:35,541 | Common.java | 76 | Parsing Locator: Sign Out#xpath=//android.widget.Button[@content-desc='Sign Out']
+ INFO | 2021-02-26 01:03:35,541 | Common.java | 76 | Android-Web - Locator Description : Sign Out
+ INFO | 2021-02-26 01:03:35,541 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:35,541 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Sign Out']
+ INFO | 2021-02-26 01:03:35,820 | Common.java | 76 | Click on: Sign Out
+ INFO | 2021-02-26 01:03:35,827 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:35,827 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:35,827 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:39,408 | Common.java | 76 | Successfully signed out of the tenant android application
+ INFO | 2021-02-26 01:03:39,431 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:39,431 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:39,431 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:39,447 | Common.java | 76 | ################################DataSet: 2################################
+ INFO | 2021-02-26 01:03:39,462 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:39,462 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:39,462 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:39,478 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:39,640 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:39,756 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:03:39,891 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-02-26 01:03:39,891 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:39,891 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:39,891 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:39,925 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-02-26 01:03:39,925 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-02-26 01:03:39,925 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:39,925 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-02-26 01:03:47,949 | Common.java | 76 | Type 'testingpurpose12122@gmail.com' in: Email
+ INFO | 2021-02-26 01:03:47,955 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:03:47,955 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:03:47,955 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:03:48,034 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-02-26 01:03:48,034 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:03:48,034 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:03:48,034 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-02-26 01:04:13,406 | Common.java | 76 | Type 'tester@123' in: Password
+ INFO | 2021-02-26 01:04:13,412 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:13,412 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:13,412 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:14,092 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-02-26 01:04:14,130 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:04:14,130 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-02-26 01:04:14,130 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:04:14,130 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:04:15,279 | Common.java | 76 | Click on: Login
+ INFO | 2021-02-26 01:04:15,286 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:15,286 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:15,286 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:16,618 | Common.java | 76 | Tenant login failed using invalid email
+ INFO | 2021-02-26 01:04:16,632 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:16,632 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:16,632 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:16,640 | Common.java | 76 | ################################DataSet: 3################################
+ INFO | 2021-02-26 01:04:16,656 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:16,656 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:16,656 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:16,673 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:04:16,818 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:04:16,952 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-02-26 01:04:17,056 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-02-26 01:04:17,056 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:17,056 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:17,072 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:17,103 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-02-26 01:04:17,103 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-02-26 01:04:17,103 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:04:17,103 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-02-26 01:04:33,796 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-02-26 01:04:33,807 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:33,807 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:33,807 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:33,838 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-02-26 01:04:33,838 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-02-26 01:04:33,838 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:04:33,838 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-02-26 01:04:43,120 | Common.java | 76 | Type '@talo123' in: Password
+ INFO | 2021-02-26 01:04:43,125 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:43,125 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:43,130 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:43,669 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-02-26 01:04:43,719 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:04:43,719 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-02-26 01:04:43,729 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-02-26 01:04:43,729 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-02-26 01:04:44,860 | Common.java | 76 | Click on: Login
+ INFO | 2021-02-26 01:04:44,866 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:44,866 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:44,870 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:53,475 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.23 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ISILLT10137', ip: '192.168.1.100', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2340, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=94d74832, platform=LINUX, deviceUDID=94d74832, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=Redmi Note 7 Pro, platformName=Android, deviceManufacturer=Xiaomi}]
+Session ID: d199f3bd-273d-49a9-9109-646e5389b701
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='Incorrect password Text']}
+ERROR | 2021-02-26 01:04:54,743 | Common.java | 84 | Expected error on entering invalid password is not displayed
+ INFO | 2021-02-26 01:04:54,746 | Common.java | 76 | XML file is opened
+ INFO | 2021-02-26 01:04:54,746 | Common.java | 76 | Test step is created
+ INFO | 2021-02-26 01:04:54,746 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-02-26 01:04:54,763 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-02-26 01:04:54,763 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-02-26 01:04:54,763 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-02-26 01:04:54,778 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-02-26 01:04:54,778 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-02-26 01:04:54,778 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-02-26 01:04:54,778 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2021-02-26 01:04:55,788 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-02-26 01:04:55,790 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-02-26 01:04:55,797 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:04:55,802 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:04:55,808 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-02-26 01:04:55,808 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:04:55,809 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | ###################################
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | Script Execution Complete
+ INFO | 2021-02-26 01:04:57,548 | Common.java | 76 | ###################################

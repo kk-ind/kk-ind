@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="20" name="Failed suite [Suite]" parallel="tests">
+  <test name="Android-Web(failed)" parallel="tests">
+    <parameter name="selenium.port" value="4723"/>
+    <parameter name="selenium.osVersion" value="9"/>
+    <parameter name="selenium.host" value="0.0.0.0"/>
+    <parameter name="selenium.machinename" value="Android-Web"/>
+    <parameter name="selenium.browserVersion" value="0.1.212"/>
+    <parameter name="selenium.os" value="Android"/>
+    <parameter name="selenium.browser" value="Atalo"/>
+    <parameter name="selenium.url" value="https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin"/>
+    <parameter name="TestData.SheetNumber" value="1"/>
+    <classes>
+      <class name="TestCases.TestCases">
+        <methods>
+          <include name="closeSessions"/>
+          <include name="precondition"/>
+          <include name="TC_tenantRegistration" invocation-numbers="0"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- TestCases.TestCases -->
+    </classes>
+  </test> <!-- Android-Web(failed) -->
+</suite> <!-- Failed suite [Suite] -->

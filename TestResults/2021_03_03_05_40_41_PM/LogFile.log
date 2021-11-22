@@ -1,0 +1,195 @@
+ INFO | 2021-03-03 17:40:41,176 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 17:40:41,181 | Common.java | 76 | Test Output Directory creation successful :D:\Quarks_NEW\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_05_40_41_PM
+ INFO | 2021-03-03 17:40:41,182 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 17:40:41,856 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 17:40:42,399 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 17:40:42,402 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 17:40:42,664 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 17:40:42,665 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 17:40:42,665 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 17:40:42,982 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:40:42,996 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:40:43,982 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 17:40:53,990 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 17:40:53,991 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 17:40:53,992 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 17:40:53,994 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 17:40:53,998 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 17:40:54,004 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 17:40:54,005 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 17:40:54,006 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 17:40:54,007 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 17:40:54,008 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 17:40:54,009 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 17:41:11,867 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 17:41:11,868 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 17:41:11,869 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 17:41:11,869 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 17:41:11,869 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 17:41:11,874 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ INFO | 2021-03-03 17:41:17,221 | Common.java | 76 | Browser: Open Successful : admin
+ INFO | 2021-03-03 17:41:17,221 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 17:41:17,243 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 17:41:17,243 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 17:41:17,244 | Common.java | 76 | Getting value of indium_logo_path from Test Configuration file : Indium-Software-Logo.jpg
+ INFO | 2021-03-03 17:41:17,245 | Common.java | 76 | Getting value of client_logo_path from Test Configuration file : client_logo.jpg
+ INFO | 2021-03-03 17:41:17,360 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 17:41:17,362 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 17:41:17,365 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 17:41:17,366 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 17:41:17,368 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 17:41:17,368 | Common.java | 76 | ############# Start of Test Case[TC_tenantLogin] : Verify the tenant is able to login to the application only with valid credentials #############
+ INFO | 2021-03-03 17:41:17,457 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:41:17,460 | Common.java | 76 | Test Case tag is created
+ INFO | 2021-03-03 17:41:17,467 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:41:17,468 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:41:17,937 | Common.java | 76 | ################################DataSet: 1################################
+ INFO | 2021-03-03 17:41:17,946 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:41:17,948 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:41:17,953 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:41:19,158 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:41:19,459 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:41:19,661 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:41:19,820 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 17:41:19,831 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:41:19,832 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:41:19,838 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:41:19,907 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:19,907 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:19,907 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:19,907 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:20,099 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:21,114 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:21,116 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:21,116 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:21,117 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:21,237 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:22,245 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:22,245 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:22,246 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:22,246 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:22,461 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:23,474 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:23,474 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:23,475 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:23,475 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:23,691 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:24,702 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:24,702 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:24,702 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:24,703 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:24,832 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:25,838 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:25,839 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:25,840 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:25,840 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:26,035 | Common.java | 76 | NoSuchElementException occured. Retrying..............
+ INFO | 2021-03-03 17:41:27,042 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:41:27,043 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:41:27,043 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:41:27,043 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:42:54,822 | Common.java | 76 | Type 'testingpurpose12122@gmail.com' in: Email
+ INFO | 2021-03-03 17:42:54,836 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:42:54,837 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:42:54,845 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:44:39,413 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 17:44:39,413 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 17:44:39,414 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:44:39,414 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 17:44:39,535 | Common.java | 76 | Sucessfully got the text 'Password' for Password
+ INFO | 2021-03-03 17:44:51,154 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 17:44:51,158 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 17:44:51,161 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:44:51,164 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 17:45:14,227 | Common.java | 76 | Type 'tester@123' in: Password
+ INFO | 2021-03-03 17:45:14,520 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:45:14,540 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:45:14,631 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:45:25,306 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 17:45:25,334 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 17:45:25,334 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-03-03 17:45:25,335 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:45:25,335 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 17:45:26,571 | Common.java | 76 | Click on: Login
+ INFO | 2021-03-03 17:45:26,575 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:45:26,575 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:45:26,579 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:45:27,664 | Common.java | 76 | Tenant login failed using invalid email
+ INFO | 2021-03-03 17:45:27,668 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:45:27,668 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:45:27,672 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:45:27,702 | Common.java | 76 | ################################DataSet: 2################################
+ INFO | 2021-03-03 17:45:27,705 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:45:27,706 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:45:27,722 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:45:27,758 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:45:27,979 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:45:28,111 | Common.java | 76 | Getting value of TestDataFile from Test Configuration file : ./src/main/resources/data/TestData.xls
+ INFO | 2021-03-03 17:45:28,254 | Common.java | 76 | Switched to 'Tenant' Application
+ INFO | 2021-03-03 17:45:28,268 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:45:28,268 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:45:28,278 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:45:28,331 | Common.java | 76 | Parsing Locator: Email#xpath=//android.widget.EditText[1]
+ INFO | 2021-03-03 17:45:28,332 | Common.java | 76 | Android-Web - Locator Description : Email
+ INFO | 2021-03-03 17:45:28,332 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:45:28,332 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[1]
+ INFO | 2021-03-03 17:46:49,337 | Common.java | 76 | Type 'testingpurpose805@gmail.com' in: Email
+ INFO | 2021-03-03 17:46:49,343 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:46:49,348 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:46:49,356 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:47:02,169 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 17:47:02,169 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 17:47:02,169 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:47:02,169 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 17:47:02,313 | Common.java | 76 | Sucessfully got the text '••••••••••' for Password
+ INFO | 2021-03-03 17:47:08,225 | Common.java | 76 | Parsing Locator: Password#xpath=//android.widget.EditText[2]
+ INFO | 2021-03-03 17:47:08,225 | Common.java | 76 | Android-Web - Locator Description : Password
+ INFO | 2021-03-03 17:47:08,226 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:47:08,226 | Common.java | 76 | Android-Web - Locator: //android.widget.EditText[2]
+ INFO | 2021-03-03 17:49:29,577 | Common.java | 76 | Type '@talo123' in: Password
+ INFO | 2021-03-03 17:49:29,584 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:49:29,585 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:49:29,591 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:49:30,646 | Common.java | 76 | Sucessfully moved to 'Back' page
+ INFO | 2021-03-03 17:49:30,677 | Common.java | 76 | Parsing Locator: Login#xpath=//android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 17:49:30,677 | Common.java | 76 | Android-Web - Locator Description : Login
+ INFO | 2021-03-03 17:49:30,677 | Common.java | 76 | Android-Web - Identify Type: xpath
+ INFO | 2021-03-03 17:49:30,677 | Common.java | 76 | Android-Web - Locator: //android.widget.Button[@content-desc='Login']
+ INFO | 2021-03-03 17:49:31,857 | Common.java | 76 | Click on: Login
+ INFO | 2021-03-03 17:49:31,862 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:49:31,862 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:49:31,866 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:49:40,369 | Common.java | 76 | org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8.45 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.quarksolution.test.conciergeapp, deviceScreenSize=1080x2220, networkConnectionEnabled=true, warnings={}, platformVersion =9, databaseEnabled=false, deviceName=emulator-5554, platform=LINUX, deviceUDID=emulator-5554, appActivity=com.example.conciergeapp.MainActivity, desired={appPackage=com.quarksolution.test.conciergeapp, appActivity=com.example.conciergeapp.MainActivity, newCommandTimeout=600, platformVersion =9, platformName=Android, deviceName=Android}, newCommandTimeout=600, platformVersion=9, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, javascriptEnabled=true, deviceModel=AOSP on IA Emulator, platformName=Android, deviceManufacturer=Google}]
+Session ID: 9391643f-c831-4edb-a092-652ac01774e5
+*** Element info: {Using=xpath, value=//android.view.View[@content-desc='Incorrect password Text']}
+ERROR | 2021-03-03 17:49:42,315 | Common.java | 84 | Expected error on entering invalid password is not displayed
+ INFO | 2021-03-03 17:49:42,320 | Common.java | 76 | XML file is opened
+ INFO | 2021-03-03 17:49:42,320 | Common.java | 76 | Test step is created
+ INFO | 2021-03-03 17:49:42,344 | Common.java | 76 | XML file is saved and closed
+ INFO | 2021-03-03 17:49:42,365 | Common.java | 76 | Getting value of ExecuteRemainingStepsOnFailure(Yes/No) from Test Configuration file : Yes
+ INFO | 2021-03-03 17:49:42,366 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 17:49:42,366 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 17:49:42,366 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 17:49:42,367 | Common.java | 76 | Getting value of OverideTimeoutOnFailure from Test Configuration file : 3
+ INFO | 2021-03-03 17:49:42,367 | Common.java | 76 | Getting value of MaxNoOfFailurePerTestCase from Test Configuration file : 5
+ INFO | 2021-03-03 17:49:42,367 | Common.java | 76 | Waiting for 1 seconds...
+ INFO | 2021-03-03 17:49:43,384 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-03-03 17:49:43,385 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-03-03 17:49:43,387 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:49:43,391 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:49:43,399 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 17:49:43,400 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 17:49:43,400 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:49:46,527 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2021-03-03 17:49:46,533 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 17:49:46,535 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 17:49:46,536 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 17:49:46,539 | Common.java | 76 | ###################################
+ INFO | 2021-03-03 17:49:46,540 | Common.java | 76 | Script Execution Complete
+ INFO | 2021-03-03 17:49:46,540 | Common.java | 76 | ###################################

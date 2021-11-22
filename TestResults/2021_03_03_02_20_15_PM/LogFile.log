@@ -1,0 +1,49 @@
+ INFO | 2021-03-03 14:20:15,385 | Common.java | 76 | Startup activites...
+ INFO | 2021-03-03 14:20:15,392 | Common.java | 76 | Test Output Directory creation successful :D:\Quarks_NEW\iSafe_3_0_Maven_Main_Quarks_Solution\iSafe_3_0_Maven_Main_Quarks_Solution/TestResults/2021_03_03_02_20_15_PM
+ INFO | 2021-03-03 14:20:15,546 | Common.java | 76 | Log File creation successful : LogFile.log
+ INFO | 2021-03-03 14:20:16,455 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:20:16,979 | Common.java | 76 | Getting value of AppURL from Test Configuration file : https://conciergeapp-test-76ff6.firebaseapp.com/auth/signin
+ INFO | 2021-03-03 14:20:16,999 | Common.java | 76 | Getting value of Tc_Settings_Excelpath from Test Configuration file : ./src/main/resources/data/TestCaseSettings.xls
+ INFO | 2021-03-03 14:20:17,244 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:20:17,251 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:20:17,254 | Common.java | 76 | Getting value of Test Suite from Test Configuration file : Regression_Suite
+ INFO | 2021-03-03 14:20:17,611 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:20:17,629 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:20:18,383 | Common.java | 76 | Waiting for 10 seconds...
+ INFO | 2021-03-03 14:20:28,394 | Common.java | 76 | Getting value of ElementLoadWaitTime from Test Configuration file : 30
+ INFO | 2021-03-03 14:20:28,397 | Common.java | 76 | Getting value of TextLoadWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:20:28,400 | Common.java | 76 | Getting value of PageLoadWaitTime from Test Configuration file : 60
+ INFO | 2021-03-03 14:20:28,404 | Common.java | 76 | Getting value of ImplicitlyWaitTime from Test Configuration file : 45
+ INFO | 2021-03-03 14:20:28,409 | Common.java | 76 | Element time out set
+ INFO | 2021-03-03 14:20:28,413 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:20:28,419 | Common.java | 76 | Opening Tenant Browser...
+ INFO | 2021-03-03 14:20:28,420 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 14:20:28,423 | Common.java | 76 | Getting value of DeviceName from Test Configuration file : Android
+ INFO | 2021-03-03 14:20:28,426 | Common.java | 76 | Getting value of AppPackage from Test Configuration file : com.quarksolution.test.conciergeapp
+ INFO | 2021-03-03 14:20:28,433 | Common.java | 76 | Getting value of AppActivity from Test Configuration file : com.example.conciergeapp.MainActivity
+ INFO | 2021-03-03 14:20:45,456 | Common.java | 76 | Application: Open Successful : tenant
+ INFO | 2021-03-03 14:20:45,533 | Common.java | 76 | Getting value of AppType from Test Configuration file : Native
+ INFO | 2021-03-03 14:20:45,546 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:20:45,550 | Common.java | 76 | Opening Admin Browser...
+ INFO | 2021-03-03 14:20:45,554 | Common.java | 76 | Getting value of AppiumTimeOut from Test Configuration file : 600
+ INFO | 2021-03-03 14:20:45,575 | Common.java | 76 | Getting value of Download directory from Test Configuration file : 
+ERROR | 2021-03-03 14:20:47,851 | Common.java | 84 | Browser: Open Failure/Navigation cancelled, please check the application window. Error: org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+ERROR | 2021-03-03 14:20:47,876 | Common.java | 84 | Browser: Open Failure/Navigation cancelled, please check the application window.
+ERROR | 2021-03-03 14:20:47,887 | Common.java | 84 | org.openqa.selenium.remote.UnreachableBrowserException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'IND-CHN-LT10552', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: driver.version: RemoteWebDriver
+ INFO | 2021-03-03 14:20:48,020 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-03-03 14:20:48,032 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-03-03 14:20:48,053 | Common.java | 76 | Getting value of Version_Name from Test Configuration file : 1
+ INFO | 2021-03-03 14:20:48,061 | Common.java | 76 | Getting value of Project_Name from Test Configuration file : Quarks Solution
+ INFO | 2021-03-03 14:20:48,368 | Common.java | 76 | Getting value of StoreResultsInCouchDB from Test Configuration file : No
+ INFO | 2021-03-03 14:20:48,374 | Common.java | 76 | Getting value of Last runs results in Barchart from Test Configuration file : No
+ INFO | 2021-03-03 14:20:48,379 | Common.java | 76 | Getting value of GridExecution from Test Configuration file : Yes
+ INFO | 2021-03-03 14:20:48,383 | Common.java | 76 | Getting value of CssStyle from Test Configuration file : Style3
+ INFO | 2021-03-03 14:20:48,386 | Common.java | 76 | ###################################
+ INFO | 2021-03-03 14:20:48,387 | Common.java | 76 | Script Execution Complete
+ INFO | 2021-03-03 14:20:48,387 | Common.java | 76 | ###################################

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><Scenario MachineName="Android-Web">
+  <TestCase description="Verify the tenant is able to register to the application" id="TC_tenantRegistration">
+    <TestStep Link="" Message="################################DataSet: 1################################" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Register" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Application navigated to tenant registration page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'automationtesting2503@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Testing' in: First Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Bot' in: Last Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure1" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure2" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure3" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure4" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure5" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure6" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure7" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure8" Status="Fail"/>
+  <TestStep Link="" Message="Switched to 'Tenant' Application" ScreenShotName="" Status="Info"/>
+  <TestStep Link="" Message="Click on: Register" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Application navigated to tenant registration page" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'automationtesting2503@gmail.com' in: Email" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Testing' in: First Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Type 'Bot' in: Last Name" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Click on: Submit" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="User already registered" ScreenShotName="../../Screenshots/TestFailure9" Status="Fail"/>
+  <TestStep Link="" Message="Click on: Back" ScreenShotName="" Status="Pass"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure10" Status="Fail"/>
+  <TestStep Link="" Message="Failed to register tenant" ScreenShotName="../../Screenshots/TestFailure11" Status="Fail"/>
+  </TestCase>
+</Scenario>
